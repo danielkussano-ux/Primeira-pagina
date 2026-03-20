@@ -7,7 +7,7 @@
 
 /* estiliza o corpo geral da página */
 body {
-    font-family: 'Gill Sans', sans-serif; /* define a fonte principal do site */
+    font-family: Gill Sans, sans-serif; /* define a fonte principal do site */
     background-color: #f0f4f8; /* define a cor de fundo da página */
     color: #2fff00; /* define a cor padrão dos textos */
 }
